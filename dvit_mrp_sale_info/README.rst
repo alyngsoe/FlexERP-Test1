@@ -3,6 +3,12 @@
    :alt: License: AGPL-3
 
 =============
+Alex Lyngsoe:
+This Odoo Version11 is a clone of the v10 module dvit_mrp_sale_info. The purpose of this branch is to migrate te module to version 11 of odoo.
+==============
+
+
+=============
 MRP Sale Info
 =============
 
