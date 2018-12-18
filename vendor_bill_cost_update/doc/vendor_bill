@@ -1,0 +1,4 @@
+We need a way to update the cost of a product from a Vendor bill.
+I have the following specifications.
+
+When validating a vendor bill, we would like for the cost of a product to be updated with the product price on the vendor bill. But only if the costing method on the product category is set to standard price.
